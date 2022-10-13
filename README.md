@@ -22,4 +22,4 @@ I'm adding more features in the game including random reward boxes (allow you to
 
 Hope you like this game!
 
-Tools: Unity for Gameplay, 1bitdragon for original BGM, Pixel Studio for original pixel art, Disco Diffusion for AI generated art (cover pages), Font from Unity Asset Store -  Thaleah.
+Tools: Unity for Gameplay, 1BitDragon for original BGM, Pixel Studio for original pixel art, Disco Diffusion for AI generated art (cover pages), Font from Unity Asset Store -  Thaleah.

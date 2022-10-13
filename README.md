@@ -3,7 +3,7 @@ The updated version of the game I made for Ludum Dare 51 (theme: Every 10 Second
 
 ## [Click here to play!](https://thanks4allthefish.itch.io/water-ball-challenge)
 
-<img src="https://github.com/Allthefish42/Water_Ball_Challenge/blob/main/IMG/Open_Background.png" wideth="45" height="250" alt= "Open_Background"><img src="https://github.com/Allthefish42/Water_Ball_Challenge/blob/main/IMG/Capture6.PNG" wideth="50" height="250" alt= "Open_Background">
+<img src="https://github.com/Allthefish42/Water_Ball_Challenge/blob/main/IMG/Open_Background.png" wideth="45" height="250" alt= "Screenshot"><img src="https://github.com/Allthefish42/Water_Ball_Challenge/blob/main/IMG/Capture6.PNG" wideth="50" height="250" alt= "Screenshot">
 
 ## Description
 

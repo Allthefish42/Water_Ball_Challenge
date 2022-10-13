@@ -7,10 +7,11 @@ The updated version of the game I made for Ludum Dare 51 (theme: Every 10 Second
 
 ## Description
 
-Fire water balls to break boxes until they hit the target!
+FIRE water balls to break boxes until they hit the target!
 
 You only have 10 seconds to break all the boxes that block your way to the target!
-Think fast!
+
+THINK FAST!
 
 There are three kind of boxes in the game: the paper box, the plastic box, and the plaster box. 
 Each box has a different durability (took multiple hits to break) . 

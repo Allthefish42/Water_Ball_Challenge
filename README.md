@@ -3,6 +3,8 @@ The updated version of the game I made for Ludum Dare 51 (theme: Every 10 Second
 
 ## [Click here to play!](https://thanks4allthefish.itch.io/water-ball-challenge)
 
+![Open_Background](https://github.com/Allthefish42/Water_Ball_Challenge/blob/main/IMG/Open_Background.png)
+
 ## Description
 
 Fire water balls to break boxes until they hit the target!

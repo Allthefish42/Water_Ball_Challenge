@@ -135,7 +135,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   coll: {fileID: 6418171604578847596}
-  bulletForce: 25
+  bulletForce: 20
   max_Hit: 8
 --- !u!95 &6418171604578847506
 Animator:

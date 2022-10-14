@@ -1,5 +1,5 @@
 # Water_Ball_Challenge
-The updated version of the game I made for Ludum Dare 51 (theme: Every 10 Seconds)
+The constantly updated version of the game I made for Ludum Dare 51 (theme: Every 10 Seconds)
 
 ## [Click here to play!](https://thanks4allthefish.itch.io/water-ball-challenge)
 

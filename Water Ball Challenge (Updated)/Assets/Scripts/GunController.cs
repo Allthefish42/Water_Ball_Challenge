@@ -30,7 +30,7 @@ public class GunController : MonoBehaviour
         int fireRate = updateRate % 5;
         if (fireRate == 0)
         {
-            updateRate = 5;
+            updateRate = 0;
             AutoShoot();
         }
     }
